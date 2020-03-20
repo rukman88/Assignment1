@@ -1,4 +1,4 @@
-language: react
+language: node.js
 rvm:
- - 16.13.1
+ - 12.16.1 LTS
  
