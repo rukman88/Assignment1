@@ -1,4 +1,0 @@
-language: node.js
-rvm:
- - 12.16.1 LTS
- 
