@@ -1,0 +1,4 @@
+language: react
+rvm:
+ - 16.13.1
+ 
