@@ -1,6 +1,6 @@
 language: node_js
 rvm:
         -"13.11.0"
-Script:_gulp.travis
+
       
 
